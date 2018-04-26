@@ -1,0 +1,70 @@
+Continutul fisierului dateVector.in :
+
+Vectorul #1 :
+Elements: 1 2 -3 
+
+Vectorul #2 :
+Elements: 2 -1 3 4 
+
+Vectorul #3 :
+Elements: -1 2 10 11 2 
+
+Suma celor 3 vectori este:
+Elements: 2 3 10 15 2 
+
+Diferenta celor 3 vectori este:
+Elements: 0 1 -16 -15 -2 
+
+Produsul primilor 2 vectori:
+Elements: 2 3 -5 13 -1 -12 
+
+
+
+Continutul fisierului datePolinom.in :
+
+Polinomul #1 :
+4 * X^1 + 3
+
+Polinomul #2 :
+-3 * X^2 + 2 * X^1 + 1
+
+Polinomul #3 :
+12 * X^3 - 11 * X^2 + 9 * X^1 + 18
+
+Suma celor 3 polinoame este:
+12 * X^3 - 14 * X^2 + 15 * X^1 + 22
+
+Diferenta dintre primul polinom si cel de al doilea polinom este:
+3 * X^2 + 2 * X^1 + 2
+
+Inmultirea primului polinom cu cel de al treilea polinom este:
+48 * X^4 - 8 * X^3 + 3 * X^2 + 99 * X^1 + 54
+
+Impartirea celui de al 3-a polinom la primul polinom este:
+3 * X^2 - 5 * X^1 + 6
+
+Restul impartirii celui de al 3-a polinom la primul polinom este:
+0
+
+Rezultatul testului suprem A == A / B * B + A % B este:
+1
+
+Valoarea primului polinom in valoarea -1 este:
+-1
+
+Polinomul este: 4 * X^1 + 3
+Valoarea pe care o verificam daca e radacina este: -1
+
+Polinomul este: 4 * X^1 + 3
+Valoarea pe care o verificam daca e radacina este: -1
+
+Este -1 radacina a polinomului: 4 * X^1 + 3 ?
+NU
+Polinomul este: -1 * X^2 - 1 * X^1 + 1
+Valoarea pe care o verificam daca e radacina este: -1
+
+Polinomul este: -2 * X^2 - 1 * X^1 + 1
+Valoarea pe care o verificam daca e radacina este: -1
+
+Este -1 radacina a polinomului: -2 * X^2 - 1 * X^1 + 1 ?
+DA
